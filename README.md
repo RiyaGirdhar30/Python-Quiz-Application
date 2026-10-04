@@ -14,6 +14,12 @@ A command-line quiz application built using Python.
 - How to Play instructions
 - Main menu for navigation
 
+## 📸 Screenshot
+
+![Python Quiz Output](screenshots/python-quiz.png)
+![Python Quiz Leaderboard](screenshots/quiz-leaderboard.png)
+![Python Quiz Statistics](screenshots/quiz-statistics.png)
+
 ## Technologies Used
 - Python
 - JSON
