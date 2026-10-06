@@ -46,7 +46,10 @@ A quiz application built using Python, featuring both a command-line version and
 
 ### Web Version
 
-_Streamlit screenshots will be added after deployment._
+![Web Home](screenshots/web-home.png)
+
+![Web Leaderboard](screenshots/web-leaderboard.png)
+
 
 ## Technologies Used
 
@@ -101,14 +104,21 @@ Python-Quiz-Application/
 │
 ├── quiz_app.py
 ├── quiz_web.py
+├── requirements.txt
 ├── README.md
 ├── .gitignore
 │
 └── screenshots/
     ├── python-quiz.png
     ├── quiz-leaderboard.png
-    └── quiz-statistics.png
+    ├── quiz-statistics.png
+    ├── web-home.png
+    └── web-leaderboard.png
 ```
+
+## Deployment
+
+The web version is deployed using Streamlit Community Cloud and connected to the GitHub repository.
 
 ## Future Improvements
 
@@ -116,4 +126,3 @@ Python-Quiz-Application/
 - Add more difficulty levels
 - Add a timer for the web version
 - Add more detailed quiz analytics
-- Deploy the Streamlit application online
