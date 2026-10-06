@@ -2,6 +2,10 @@
 
 A quiz application built using Python, featuring both a command-line version and an interactive web version built with Streamlit.
 
+## 🌐 Live Demo
+
+[Play the Quiz Online](https://quizwebpy-bpcyjc4tpdm6eizxcop4xe.streamlit.app/)
+
 ## Features
 
 ### Command-Line Version
